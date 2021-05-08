@@ -9,7 +9,7 @@ Simple WhatsApp Bot
 > pkg install ffmpeg
 > pkg install imagemagick
 > git clone https://github.com/Y0kenz4su/botwatap
-> cd Arya-Bot
+> cd botwatap
 > npm install
 ```
 ###### Run
